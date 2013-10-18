@@ -1,0 +1,8 @@
+---
+applications:
+- name: foundry-node
+  memory: 256M
+  instances: 1
+  host: foundry-node
+  domain: cfapps.io
+  path: .
